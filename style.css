@@ -1,0 +1,14 @@
+ul#seek {
+  padding-left: 5px;
+}
+li {
+  padding-left: 3px;
+  list-style: none;
+  color: #77e;
+  border-left: 3px solid #fff;
+}
+li:hover {
+  border-left: 3px solid #00f;
+  cursor: pointer;
+  color: #55e;
+}
